@@ -1,6 +1,7 @@
 html {
   position: relative;
   min-height: 100%;
+  padding: 0px;
   
 }
 footer {
@@ -155,7 +156,6 @@ div#mission h2 {
 box-shadow: 0px 0px 24px -14px rgba(66, 68, 90, 1);
   transition: ease-in-out 0.7s;
 }
-
 .fixed-top-2 {
   position: fixed;
   top: 55px;
